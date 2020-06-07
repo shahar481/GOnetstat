@@ -23,4 +23,4 @@ ok      GOnetstat       0.192s
 Original
 
 # Improvement graph
-![graph](https://i.imgur.com/JWxS8X7.png)
+![graph](https://i.imgur.com/WYSXXvV.png)
