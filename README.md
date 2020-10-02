@@ -10,17 +10,15 @@ In the readme of each version you can find its execution time.
 Original execution time:
 ```
 PASS
-ok      GOnetstat       0.192s
+ok      GOnetstat       0.955s
 ```
 
 Current version execution time:
 ```
 PASS
-ok      GOnetstat       0.192s
+ok      GOnetstat       0.079s
 ```
-
-# Changes
-Original
 
 # Improvement graph
 ![graph](https://i.imgur.com/b7TFSEj.png)
+
